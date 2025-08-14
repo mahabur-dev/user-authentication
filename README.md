@@ -104,12 +104,12 @@ Visit http://localhost:8000 to access the application.
 - date_of_birth (Date)
 - created_at, updated_at (Timestamps)
 ## Add project images
-- ![Dashboard](https://github.com/Wrong1234/user-authentication/blob/c34a23da63b206e100351b90e9aee67be1a1a16f/public/images/Laravel%20-%20Google%20Chrome%208_14_2025%2011_41_40%20AM.png) 
-- ![Create Profile](https://github.com/Wrong1234/user-authentication/blob/c34a23da63b206e100351b90e9aee67be1a1a16f/public/images/Laravel%20-%20Google%20Chrome%208_14_2025%2011_42_14%20AM.png)
-- ![All Profiles](https://github.com/Wrong1234/user-authentication/blob/c34a23da63b206e100351b90e9aee67be1a1a16f/public/images/Laravel%20-%20Google%20Chrome%208_14_2025%2011_42_25%20AM.png)
-- ![Show Profile](https://github.com/Wrong1234/user-authentication/blob/c34a23da63b206e100351b90e9aee67be1a1a16f/public/images/Laravel%20-%20Google%20Chrome%208_14_2025%2011_42_37%20AM.png)
-- ![User Registration](https://github.com/Wrong1234/user-authentication/blob/c34a23da63b206e100351b90e9aee67be1a1a16f/public/images/Laravel%20-%20Google%20Chrome%208_14_2025%2011_43_03%20AM.png)
-- ![User Login](https://github.com/Wrong1234/user-authentication/blob/c34a23da63b206e100351b90e9aee67be1a1a16f/public/images/Laravel%20-%20Google%20Chrome%208_14_2025%2011_43_12%20AM.png)
+- ![Dashboard](https://github.com/Wrong1234/user-authentication/blob/fea68e676a69d9587d0e9590fdaa35dfad7020f4/public/images/Laravel%20-%20Google%20Chrome%208_14_2025%2011_41_40%20AM.png) 
+- ![Create Profile](https://github.com/Wrong1234/user-authentication/blob/fea68e676a69d9587d0e9590fdaa35dfad7020f4/public/images/Laravel%20-%20Google%20Chrome%208_14_2025%2011_42_14%20AM.png)
+- ![All Profiles](https://github.com/Wrong1234/user-authentication/blob/fea68e676a69d9587d0e9590fdaa35dfad7020f4/public/images/Laravel%20-%20Google%20Chrome%208_14_2025%2011_42_25%20AM.png)
+- ![Show Profile](https://github.com/Wrong1234/user-authentication/blob/fea68e676a69d9587d0e9590fdaa35dfad7020f4/public/images/Laravel%20-%20Google%20Chrome%208_14_2025%2011_42_37%20AM.png)
+- ![User Registration](https://github.com/Wrong1234/user-authentication/blob/fea68e676a69d9587d0e9590fdaa35dfad7020f4/public/images/Laravel%20-%20Google%20Chrome%208_14_2025%2011_43_03%20AM.png)
+- ![User Login](https://github.com/Wrong1234/user-authentication/blob/fea68e676a69d9587d0e9590fdaa35dfad7020f4/public/images/Laravel%20-%20Google%20Chrome%208_14_2025%2011_43_12%20AM.png)
 ## Usage & Testing
 ---
 ### Testing Authentication
